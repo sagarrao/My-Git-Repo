@@ -4,7 +4,7 @@ import com.espn.sports.persistence.EntityBase;
 
 public interface Manufacturer extends EntityBase {
 	
-	public int getManufacturerId();
+	public Integer getManufacturerId();
 
 	public void setManufacturerId(int manufacturerId);
 

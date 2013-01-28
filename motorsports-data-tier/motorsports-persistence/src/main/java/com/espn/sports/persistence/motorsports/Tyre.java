@@ -4,9 +4,9 @@ import com.espn.sports.persistence.EntityBase;
 
 public interface Tyre extends EntityBase {
 	
-	public int getTyreId();
+	public Integer getTyreId();
 
-	public void setTyreId(int TyreId);
+	public void setTyreId(Integer TyreId);
 
 	public String getName();
 

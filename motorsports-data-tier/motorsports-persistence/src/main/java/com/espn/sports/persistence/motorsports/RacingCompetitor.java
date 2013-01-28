@@ -8,8 +8,8 @@ public interface RacingCompetitor extends Competitor {
 
 	public void setCar(Car car);
 
-	public int getNumberCars();
+	public Integer getNumberCars();
 
-	public void setNumberCars(int numberCars);
+	public void setNumberCars(Integer numberCars);
 	
 }
