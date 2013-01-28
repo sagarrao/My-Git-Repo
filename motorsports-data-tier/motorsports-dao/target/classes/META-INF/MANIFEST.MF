@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: MenonA
+Build-Jdk: 1.7.0_09
+Specification-Title: MotorSports DAO Tier
+Specification-Version: 0.0.1-SNAPSHOT
+Specification-Vendor: ESPN
+Implementation-Title: MotorSports DAO Tier
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.espn.sports.motorsports
+Implementation-Vendor: ESPN
+Created-By: Maven Integration for Eclipse
+Implementation-Build: 
+
