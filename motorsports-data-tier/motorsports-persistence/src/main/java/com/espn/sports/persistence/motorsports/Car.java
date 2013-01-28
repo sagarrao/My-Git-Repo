@@ -5,13 +5,13 @@ import com.espn.sports.persistence.Team;
 
 public interface Car extends EntityBase {
 	
-	public int getCarId();
+	public Integer getCarId();
 
-	public void setCarId(int carId);
+	public void setCarId(Integer carId);
 
-	public int getCarNumber();
+	public Integer getCarNumber();
 
-	public void setCarNumber(int carNumber);
+	public void setCarNumber(Integer carNumber);
 
 	public String getCarName();
 
@@ -31,6 +31,6 @@ public interface Car extends EntityBase {
 	
 	public Team getTeam();
 	
-	public void setTeam(Team team);
+	public void setTeam(RacingTeam team);
 	
 }
